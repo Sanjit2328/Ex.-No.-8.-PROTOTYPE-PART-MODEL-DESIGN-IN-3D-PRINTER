@@ -32,9 +32,10 @@
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
+![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-I
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/eafa933a-7e03-4f73-930d-75fb28d48716)
+![Screenshot 2023-12-16 152141](https://github.com/Sanjit2328/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/139331694/7625f8ef-1cc7-4747-b7ac-b9de3a0585c1)
+
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
@@ -47,8 +48,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:SANJIT P
+### Register Number:212223230190
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
